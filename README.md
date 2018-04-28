@@ -1,2 +1,2 @@
 # Java-Google-Image-Parser
-Searches for and download images from google's results.
+Searches for and downloads images from google's search results.
